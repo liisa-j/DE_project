@@ -2,7 +2,7 @@ Southern Estonia
 (Halliste, Hargla, Helme, Häädemeeste, Kambja, Kanepi, Karksi, Karula, Kodavere, Kõpu, Maarja-Magdaleena, Nõo, Otepää, Paistu, Puhja, Põlva, Rannu, Räpina, Rõngu, Rõuge, Saarde, Sangaste, Suure-Jaani, Tartu-Maarja, Tarvastu, Tori, Torma, Urvaste, Uulu, Vastseliina, Viljandi, Võnnu, Äksi)
 
 Most typical song types: 
-1. Linnamäng https://www.folklore.ee/regilaul/andmebaas/?op=2&oid=1
+1. Linnamäng 
 2. Tillukene naine 
 3. Taar hapnema! 
 4. Karjase laul rongale 
@@ -12,3 +12,30 @@ Most typical song types:
 8. Naisetapja 
 9. Ei itke ehteid 
 10. Ei antud veimi
+
+
+1. Linnamäng 
+See all songs of this type from here: https://www.folklore.ee/regilaul/andmebaas/?op=2&oid=1
+
+Laul.
+Ema, ema armas, mina lää liina.
+Mis sa sinna otsma lääd?
+Sulle rätti tuuma.
+Ema, ema armas, mina lää liina.
+Mis sa sinna otsma lääd?
+Sulle põlle tuuma.
+Ema, ema armas, mina lää liina.
+Mis sa sinna otsma lääd?
+Sulle kingi tuuma.
+
+
+2. Tillukene naine 
+See all songs of this type from here: https://www.folklore.ee/regilaul/andmebaas/?op=2&oid=1
+
+Võtsin naese nastulise
+Pisukese püstolise
+Ärä tema uppus ubalehte
+Ärä kadus kasteheina
+See küll nirki niidäb heina
+See küll kassi kastab kakku
+See küll äbärik äestäb.
