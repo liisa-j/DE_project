@@ -1,5 +1,4 @@
 # DE_project
-Data Engineering project repository
 
 This repository contains information and code on various parts of the Data Engineering Project. 
 
