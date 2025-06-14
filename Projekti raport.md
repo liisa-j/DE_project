@@ -1,17 +1,17 @@
 
 
-Projekti raport - inimkannatanutega liiklusõnnetused Eestis 2011-2025
+# Projekti raport - inimkannatanutega liiklusõnnetused Eestis 2011-2025
 
 Liisa Jullinen
 
 
 
 __________________________________________________________________________________________
-Eesmärgid
+# Eesmärgid
 
 Antud projekti eesmärgiks oli leida iseseisvalt sobiv andmeallikas, andmeid vajadusel töödelda ning tranformeerida (antud juhul parquet-failiks), laadida andmestik flat-andmebaasi ja visualiseerida andmeid Superset’i abil. Sisuliseks eesmärgiks oli luua juhtpaneel, mis visualiseeriks Eestis toimunud inimkannatanutega liiklusõnnetuste statistikat ja aitaks luua sellesse huvipakkuvaid sissevaateid. 
 
-Andmeallikad
+# Andmeallikad
 
 Andmeallikaks oli valitud Eesti Avaandmetest pärinev andmestik „Inimkannatanutega liiklusõnnetuste andmed“. Tegu on Politsei- ja Piirivalveameti poolt kogutud andmetega, mille haldusega tegeleb Transpordiamet ning mis koondab andmeid inimkannatanutega liiklusõnnestustest Eestis ajavahemikul 2011-2025. 
 Andmestik on saadaval mitmetes erinevates formaatides, seal hulgas siin töös kasutatud .csv formaadis ning metaandmed formaadis .json. Kokku oli andmestikus 17370 rida ja 54 veergu ning andmestik hõlmas erinevaid andmetüüpe (numbriline, kategooriline, tekstiline, kuupäev ja kellaaeg). 
