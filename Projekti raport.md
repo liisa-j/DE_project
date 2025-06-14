@@ -12,7 +12,7 @@ Andmestik on saadaval mitmetes erinevates formaatides, seal hulgas siin töös k
 -	Täpsem andmestiku kirjeldus leidub esitatud kodutöös nr 1. 
 -	Link andmetele: https://avaandmed.eesti.ee/datasets/inimkannatanutega-liiklusonnetuste-andmed
 
-ETL protsess
+ETL protsess /br
 ETL-protsessis kasutatav Superseti rakendus käivitati avalikult kättesaadava Docker’i konteineri kaudu. 
 Kuigi (näiteks Pythoni pakettide) versioonikonfliktide vältimiseks oleks mõistlik ka selle tarbeks ehitada eraldi Dockeri konteiner, ei näinud ma antud projekti puhul selleks vajadust (kuna andmeanalüüsi osa ei olnud just kuigi keerukas ega hõlmanud kuigipalju erinevaid pakette) ja kogu transform osa teostati ühe Pythoni skriptiga.  
 Kuna andmestiku allalaadimine otselingilt ei olnud võimalik (allalaadimiseks oli vaja manuaalselt nõustuda kasutustingimustega), laeti andmed esmalt alla käsitsi .csv-failina (seega on modifitseerimise koodis kasutatud kõvakettale salvestatud csv-faili, mitte otselinki). 
