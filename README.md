@@ -12,5 +12,5 @@ Data files:
 2. onnetus.parquet - a transformed data file (output of downloaddata.py, input to Superset)
 
 Other important files: 
-1. report.pdf and report.md - files containing the report of the project.
+1. 'Projekti raport.pdf' and 'Projekti raport.md' - files containing the report of the project.
 2. dashboard_liiklus.jpg - a .jpg view of the dashboard created in Superset based on the abovementioned dataset (please note, that some of the charts' date range has been slightly modified in this view due to the fact that a charts cannot be scrolled and to show the most important part of charts).
