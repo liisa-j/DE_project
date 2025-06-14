@@ -1,9 +1,12 @@
 
 
 Projekti raport - inimkannatanutega liiklusõnnetused Eestis 2011-2025
+
 Liisa Jullinen
 
 
+
+__________________________________________________________________________________________
 Eesmärgid
 
 Antud projekti eesmärgiks oli leida iseseisvalt sobiv andmeallikas, andmeid vajadusel töödelda ning tranformeerida (antud juhul parquet-failiks), laadida andmestik flat-andmebaasi ja visualiseerida andmeid Superset’i abil. Sisuliseks eesmärgiks oli luua juhtpaneel, mis visualiseeriks Eestis toimunud inimkannatanutega liiklusõnnetuste statistikat ja aitaks luua sellesse huvipakkuvaid sissevaateid. 
